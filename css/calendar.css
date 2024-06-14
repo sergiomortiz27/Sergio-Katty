@@ -1,0 +1,23 @@
+/* modal de calendario */
+.addeventatc_dropdown .drop_markup {
+	background-color:#f4f4f4;
+	}
+.addeventatc_dropdown .frs a {
+	margin:0!important;
+	padding:0!important;
+	font-style:normal!important;
+	font-weight:normal!important;
+	line-height:110%!important;
+	background-color:#fff!important;
+	text-decoration:none;
+	font-size:9px!important;
+	color:#cacaca!important;
+	display:inline-block;
+	}
+.addeventatc_dropdown .frs a:hover {
+	color:#999!important;
+	}
+.addeventatc .start, .addeventatc .end, .addeventatc .timezone, .addeventatc .title, .addeventatc .description, .addeventatc .location, .addeventatc .organizer, .addeventatc .organizer_email, .addeventatc .facebook_event, .addeventatc .all_day_event, .addeventatc .date_format, .addeventatc .alarm_reminder, .addeventatc .recurring, .addeventatc .attendees, .addeventatc .client, .addeventatc .calname, .addeventatc .uid, .addeventatc .sequence, .addeventatc .status, .addeventatc .method, .addeventatc .transp {
+	display:none!important;
+	}
+
